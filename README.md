@@ -26,10 +26,4 @@ Here are some ideas to get you started:
 
 ---
 
-
-
-<p align='center'>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Linkheroes&theme=dark&hide_border=falset">
-</p>
-
 [![](https://visitcount.itsvg.in/api?id=Linkheroes&icon=2&color=1)](https://visitcount.itsvg.in)
