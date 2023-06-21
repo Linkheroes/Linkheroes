@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/alexandre-ricard-236902255/)) 
-![Github](https://github.com/Linkheroes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/alexandre-ricard-236902255/))
 
 ---
 <p align='center'>
@@ -22,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align='center'>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixlvu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linkheroes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
 ---
@@ -33,4 +32,4 @@ Here are some ideas to get you started:
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=felixlvu&theme=dark&hide_border=falset">
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=felixlvu&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Linkheroes&icon=2&color=1)](https://visitcount.itsvg.in)
