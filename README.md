@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align='center'>
-      
-                    <img src="https://github-readme-stats.vercel.app/api?username=Linkheroes&show_icons=true&hide_border=true"></img>
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linkheroes&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Linkheroes&show_icons=true&hide_border=true"></img>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linkheroes&hide_border=true" />
 </p>
