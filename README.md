@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 ## Designer tools
 <img src="https://skillicons.dev/icons?i=figma,xd,ps,ae,pr,ai" />
 
-<p align='center'>
+<p>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linkheroes&hide_border=true&theme=transparent" />
 </p>
