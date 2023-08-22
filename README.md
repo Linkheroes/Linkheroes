@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 -->
 ## Programming languagues
 <img src="https://skillicons.dev/icons?i=c,cs,cpp,ruby,js,ts,html,css,php,java,scala,swift,python&perline=13"/>
-<p>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linkheroes&hide_border=true&theme=transparent" />
-</p>
 
 ## Frameworks
 <img src="https://skillicons.dev/icons?i=nodejs,electron,react,express,angular,vite,symfony,tailwind" />
