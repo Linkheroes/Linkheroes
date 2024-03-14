@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Programming languagues
-<img src="https://skillicons.dev/icons?i=c,cs,cpp,ruby,js,ts,html,css,php,java,scala,swift,python,dotnet&perline=7"/>
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,ruby,js,ts,html,css,php,java,scala,swift,python,dotnet"/>
 
 ## Frameworks
 <img src="https://skillicons.dev/icons?i=electron,react,express,angular,vite,nextjs,symfony,tailwind" />
 
 ## Developer tools
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,neovim,emacs,idea,androidstudio,atom,eclipse,gradle,github,githubactions,git,gitlab,firebase,mysql,mongodb,docker,nodejs,postman,jenkins&perline=10"/>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,gradle,github,git,gitlab,firebase,mysql,mongodb,docker,nodejs,postman,jenkins"/>
 
 ## Designer tools
 <img src="https://skillicons.dev/icons?i=figma,xd,ps,ae,pr,ai,blender" />
